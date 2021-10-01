@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b9e5413295ba642408787e52ebdff5d8
+guid: 2c2faf17dbebc6241b2d436374ef0daa
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -57,35 +57,35 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bronze_Rubbed
-    second: {fileID: 2100000, guid: 5bed428fab0743348ade202f38dea85a, type: 2}
+    second: {fileID: 2100000, guid: 72877488eb9cdd749846a67488b3e16b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PaintStainless
-    second: {fileID: 2100000, guid: 960f804d163242f4690a70a0cf59504d, type: 2}
+    second: {fileID: 2100000, guid: b8050edbdb5dcbd4db745a8977062c09, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Plastic-Kenmore-Black-Matte
-    second: {fileID: 2100000, guid: 532cf1bdc2a3b944a94dae8e9cf51968, type: 2}
+    second: {fileID: 2100000, guid: 61a8cc675f02f284db47803adc7edc72, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Rubber-Kenmore-Grey-Matte
-    second: {fileID: 2100000, guid: e88158af6cd16094ab177ddab7547006, type: 2}
+    second: {fileID: 2100000, guid: 013a4f06f9939834d9f7391884b3e917, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Walnut_Wood
-    second: {fileID: 2100000, guid: 8bbde0083d8d05d48ad84bba691d3d3f, type: 2}
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood_Cherry
-    second: {fileID: 2100000, guid: d65f7f77687e51e44a55e95f1d15a9e4, type: 2}
+    second: {fileID: 2100000, guid: 7aafceebed1bded4bb791fc3ac0f1585, type: 2}
   materials:
     importMaterials: 1
-    materialName: 1
+    materialName: 0
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -120,7 +120,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -137,7 +137,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eac3aa4e72e32a440beeb6930a4a365c
+guid: c6b56b8ee982fd84b9ca406f79baa27a
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -27,7 +27,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GraniteSlab
-    second: {fileID: 2100000, guid: 043145a9231cdf44da83c862917db26e, type: 2}
+    second: {fileID: 2100000, guid: e8fb926b0553b294f8e139134014ff0b, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -65,7 +65,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -82,7 +82,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

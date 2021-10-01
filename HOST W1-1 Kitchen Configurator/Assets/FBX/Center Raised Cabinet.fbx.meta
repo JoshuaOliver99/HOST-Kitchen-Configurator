@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4cf2eda2eef4fdf479ddab8b2915ad12
+guid: 69d837a8e32fb674199dd547f0ede289
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -38,12 +38,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bronze_Rubbed
-    second: {fileID: 2100000, guid: 5bed428fab0743348ade202f38dea85a, type: 2}
+    second: {fileID: 2100000, guid: 72877488eb9cdd749846a67488b3e16b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Walnut_Wood
-    second: {fileID: 2100000, guid: 8bbde0083d8d05d48ad84bba691d3d3f, type: 2}
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -81,7 +81,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -98,7 +98,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

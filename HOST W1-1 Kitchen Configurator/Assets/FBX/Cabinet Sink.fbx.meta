@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b55d1b24a9ebafd428e64cc96f779459
+guid: 2b3d615f323b56f4c94f38bb3c60540e
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -57,32 +57,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bronze
-    second: {fileID: 2100000, guid: bd3242b4b14b5e94084990d8b70432a7, type: 2}
+    second: {fileID: 2100000, guid: 2ba9850a0442220489bf39e37eb319e5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bronze_Rubbed
-    second: {fileID: 2100000, guid: 5bed428fab0743348ade202f38dea85a, type: 2}
+    second: {fileID: 2100000, guid: 72877488eb9cdd749846a67488b3e16b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: CastEnamel
-    second: {fileID: 2100000, guid: 19c33e7f20954ae4199619148a8a3072, type: 2}
+    second: {fileID: 2100000, guid: b1fdb6714901a41488347a7df6db1c3d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GraniteSlab
-    second: {fileID: 2100000, guid: 043145a9231cdf44da83c862917db26e, type: 2}
+    second: {fileID: 2100000, guid: e8fb926b0553b294f8e139134014ff0b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Snap Locations
-    second: {fileID: 2100000, guid: 8e75a7ab4d1ba5b41a1ed8396fc5c288, type: 2}
+    second: {fileID: 2100000, guid: 663d37e31cbed424cb635489fc35d37a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Walnut_Wood
-    second: {fileID: 2100000, guid: 8bbde0083d8d05d48ad84bba691d3d3f, type: 2}
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -120,7 +120,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -137,7 +137,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

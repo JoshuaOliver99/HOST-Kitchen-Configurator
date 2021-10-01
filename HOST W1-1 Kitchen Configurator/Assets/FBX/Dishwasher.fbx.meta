@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6a61ec2d474160e4a8c6683be819d4eb
+guid: 726015c3743553445b4f3a7244184071
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -24,17 +24,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GraniteSlab
-    second: {fileID: 2100000, guid: 043145a9231cdf44da83c862917db26e, type: 2}
+    second: {fileID: 2100000, guid: e8fb926b0553b294f8e139134014ff0b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Paint-Kenmore-15119-Black
-    second: {fileID: 2100000, guid: d119398a98223914b9f4d24f9f443744, type: 2}
+    second: {fileID: 2100000, guid: 4a58400de841c854e989478cd30d06f0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PaintStainless
-    second: {fileID: 2100000, guid: 960f804d163242f4690a70a0cf59504d, type: 2}
+    second: {fileID: 2100000, guid: b8050edbdb5dcbd4db745a8977062c09, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -72,7 +72,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -89,7 +89,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7da2caccd6f5e7b4f906d9fdbcc0271e
+guid: 8ead59e486e966c44b60ca0608b400d8
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -80,40 +80,40 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ceiling_Paint
-    second: {fileID: 2100000, guid: 35628a582a6c90446943a08d5537c483, type: 2}
+    second: {fileID: 2100000, guid: b558c721dad7b724c8b6a89035144bf8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass
-    second: {fileID: 2100000, guid: 0263ca76ceb05e64ab7a1b790e9df7f8, type: 2}
+    second: {fileID: 2100000, guid: 7c92831ace1b0994eaeaf39b51793a63, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lit_Bulb
-    second: {fileID: 2100000, guid: 1e80093e476954746bcfb13692332c8c, type: 2}
+    second: {fileID: 2100000, guid: 25179d6f39eaccc498074068e9859149, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wall_Paint
-    second: {fileID: 2100000, guid: 6e576a9499c8d7242bc3a11d1fad7d4d, type: 2}
+    second: {fileID: 2100000, guid: 62640778827c34340a266384af489212, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: White_Paint
-    second: {fileID: 2100000, guid: e46fdc080a7d48647b6b5daae6fd2af9, type: 2}
+    second: {fileID: 2100000, guid: 8a2e44ce56a25d94ca629499f552ac6f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: White_Plastic
-    second: {fileID: 2100000, guid: dd7c5b17814224c47b3e2647a1c61230, type: 2}
+    second: {fileID: 2100000, guid: e140ca79a3b39a0499b26f75646fd644, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood_Tile
-    second: {fileID: 2100000, guid: 433cfa9fec4b0654781eb54b15e08d2e, type: 2}
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -148,7 +148,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -165,7 +165,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
