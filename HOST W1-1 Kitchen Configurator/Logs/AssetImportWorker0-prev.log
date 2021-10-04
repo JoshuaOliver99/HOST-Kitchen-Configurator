@@ -15,11 +15,11 @@ C:/Users/Josh/Documents/GitHub/HOST-Kitchen-Configurator/HOST W1-1 Kitchen Confi
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63873
+52763
 Successfully changed project path to: C:/Users/Josh/Documents/GitHub/HOST-Kitchen-Configurator/HOST W1-1 Kitchen Configurator
 C:/Users/Josh/Documents/GitHub/HOST-Kitchen-Configurator/HOST W1-1 Kitchen Configurator
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 95.02 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 101.98 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
@@ -35,92 +35,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56072
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004875 seconds.
+Registered in 0.004636 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 74.17 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 74.04 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.753 seconds
+- Completed reload, in  1.841 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1753ms)
-		BeginReloadAssembly (85ms)
+	ReloadAssembly (1841ms)
+		BeginReloadAssembly (93ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (631ms)
-			LoadAssemblies (81ms)
+		EndReloadAssembly (641ms)
+			LoadAssemblies (90ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (212ms)
+			SetupTypeCache (215ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (251ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (265ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (74ms)
-				BeforeProcessingInitializeOnLoad (22ms)
-				ProcessInitializeOnLoadAttributes (109ms)
-				ProcessInitializeOnLoadMethodAttributes (37ms)
+				BeforeProcessingInitializeOnLoad (24ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006956 seconds.
+Registered in 0.007577 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.667 seconds
+- Completed reload, in  1.761 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1668ms)
-		BeginReloadAssembly (222ms)
+	ReloadAssembly (1763ms)
+		BeginReloadAssembly (217ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (23ms)
-		EndReloadAssembly (1355ms)
-			LoadAssemblies (147ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1450ms)
+			LoadAssemblies (155ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (388ms)
+			SetupTypeCache (429ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (69ms)
-			SetupLoadedEditorAssemblies (597ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (624ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (10ms)
+				InitializePlatformSupportModulesInManaged (11ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (160ms)
-				ProcessInitializeOnLoadAttributes (359ms)
-				ProcessInitializeOnLoadMethodAttributes (53ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				BeforeProcessingInitializeOnLoad (167ms)
+				ProcessInitializeOnLoadAttributes (381ms)
+				ProcessInitializeOnLoadMethodAttributes (52ms)
+				AfterProcessingInitializeOnLoad (12ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1964 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 82.5 MB.
-System memory in use after: 82.6 MB.
+System memory in use before: 82.7 MB.
+System memory in use after: 82.8 MB.
 
 Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 2374.
-Total: 7.960500 ms (FindLiveObjects: 0.215300 ms CreateObjectMapping: 0.078600 ms MarkObjects: 7.549700 ms  DeleteObjects: 0.115000 ms)
+Total: 8.820000 ms (FindLiveObjects: 0.200600 ms CreateObjectMapping: 0.076200 ms MarkObjects: 8.430000 ms  DeleteObjects: 0.111500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,97 +134,49 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Materials
-  artifactKey: Guid(c76fd9b63f96fea4c87281bbd00807f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials using Guid(c76fd9b63f96fea4c87281bbd00807f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a798cb68384e80a508fd9b42efd70f5d') in 0.014254 seconds 
-  Import took 0.017935 seconds .
+  path: Assets/GareoultWhiteBalanced.exr
+  artifactKey: Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GareoultWhiteBalanced.exr using Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d558c0cf7c9dbc4fa28856609eb2e5') in 0.113827 seconds 
+  Import took 0.117549 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 128.921350 seconds.
-  path: Assets/FBX/Center Raised Cabinet.fbx
-  artifactKey: Guid(69d837a8e32fb674199dd547f0ede289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Center Raised Cabinet.fbx using Guid(69d837a8e32fb674199dd547f0ede289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336d4a1ff15e5b8d864683e136c79acf') in 0.310585 seconds 
-  Import took 0.316049 seconds .
+  Time since last request: 114.964166 seconds.
+  path: Assets/GareoultWhiteBalanced.exr
+  artifactKey: Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GareoultWhiteBalanced.exr using Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42757309b0111f312fc999c0cceac098') in 0.227258 seconds 
+  Import took 0.236852 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.042099 seconds.
-  path: Assets/FBX/Corner Cabinet.fbx
-  artifactKey: Guid(92aa26eae1e307a43a84abf499b665a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Corner Cabinet.fbx using Guid(92aa26eae1e307a43a84abf499b665a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe00c9526a34420b5cb5dab0d44870c1') in 0.089546 seconds 
-  Import took 0.094922 seconds .
+  Time since last request: 3204.163555 seconds.
+  path: Assets/GareoultWhiteBalanced.exr
+  artifactKey: Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GareoultWhiteBalanced.exr using Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb98fe58b1582ecabd65336da936ed98') in 0.090422 seconds 
+  Import took 0.104850 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.839925 seconds.
-  path: Assets/FBX/Counter End Cap.fbx
-  artifactKey: Guid(c6b56b8ee982fd84b9ca406f79baa27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Counter End Cap.fbx using Guid(c6b56b8ee982fd84b9ca406f79baa27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a2dbe3bb5653a80e17542dea8eb5dd') in 0.036610 seconds 
-  Import took 0.040471 seconds .
+  Time since last request: 43.327686 seconds.
+  path: Assets/GareoultWhiteBalanced.exr
+  artifactKey: Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GareoultWhiteBalanced.exr using Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efcad6459549dc2b3320c0ddee66e825') in 0.046274 seconds 
+  Import took 0.052597 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.440806 seconds.
-  path: Assets/FBX/Dishwasher.fbx
-  artifactKey: Guid(726015c3743553445b4f3a7244184071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Dishwasher.fbx using Guid(726015c3743553445b4f3a7244184071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49662220922bf3012539e7aa5edf11e') in 0.050478 seconds 
-  Import took 0.054405 seconds .
+  Time since last request: 0.132218 seconds.
+  path: Assets/GareoultWhiteBalanced.exr
+  artifactKey: Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GareoultWhiteBalanced.exr using Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efcad6459549dc2b3320c0ddee66e825') in 0.053568 seconds 
+  Import took 0.059477 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.065851 seconds.
-  path: Assets/FBX/Double Cabinet.fbx
-  artifactKey: Guid(04c86e0e4e0621c46b04f0249819d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Double Cabinet.fbx using Guid(04c86e0e4e0621c46b04f0249819d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8e97feba7c8d6d753035c01b503d0c') in 0.107224 seconds 
-  Import took 0.111553 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.042887 seconds.
-  path: Assets/FBX/Island.fbx
-  artifactKey: Guid(48b0bc8be2e7b164d9cc99f364bbfc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Island.fbx using Guid(48b0bc8be2e7b164d9cc99f364bbfc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd348f763f0db2b7e4ded0adb81cbfd91') in 0.308300 seconds 
-  Import took 0.313176 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.141757 seconds.
-  path: Assets/FBX/kitchen.fbx
-  artifactKey: Guid(8ead59e486e966c44b60ca0608b400d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/kitchen.fbx using Guid(8ead59e486e966c44b60ca0608b400d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ffeb7161b7fc4612618c829b1c75d1') in 0.132588 seconds 
-  Import took 0.136690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.294290 seconds.
-  path: Assets/FBX/Left Raised Cabinet.fbx
-  artifactKey: Guid(036b2428542ac6b44a6eb980b77f2217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Left Raised Cabinet.fbx using Guid(036b2428542ac6b44a6eb980b77f2217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eee5cb558ca3de8bb5dceee89969964') in 0.099324 seconds 
-  Import took 0.103329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.640984 seconds.
-  path: Assets/FBX/Refrigerator Cabinet.fbx
-  artifactKey: Guid(2c2faf17dbebc6241b2d436374ef0daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Refrigerator Cabinet.fbx using Guid(2c2faf17dbebc6241b2d436374ef0daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466650bb51edf095a2a9fe07548fcf78') in 0.097710 seconds 
-  Import took 0.103309 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.036251 seconds.
-  path: Assets/FBX/Right Raised Cabinet.fbx
-  artifactKey: Guid(62bf8e89f5ff6c34da44fc90cfbb0789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Right Raised Cabinet.fbx using Guid(62bf8e89f5ff6c34da44fc90cfbb0789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cff34f65478d865931676c6f53a7c9d') in 0.087977 seconds 
-  Import took 0.092063 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.420567 seconds.
-  path: Assets/FBX/Single Cabinet.fbx
-  artifactKey: Guid(dc3148eda004a4448bdc5771a358db54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Single Cabinet.fbx using Guid(dc3148eda004a4448bdc5771a358db54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6367c8c6490f59b271d15abcbd839f3d') in 0.139425 seconds 
-  Import took 0.143890 seconds .
+  Time since last request: 52.823110 seconds.
+  path: Assets/GareoultWhiteBalanced.exr
+  artifactKey: Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GareoultWhiteBalanced.exr using Guid(03518f7e461b0ea4c828858faa5931d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9953d95b703f0d97295d1c42bb11671') in 0.063570 seconds 
+  Import took 0.071233 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
