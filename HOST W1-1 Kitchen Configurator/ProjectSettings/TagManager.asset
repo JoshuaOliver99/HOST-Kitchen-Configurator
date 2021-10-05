@@ -12,6 +12,9 @@ TagManager:
   - Base
   - Appliance
   - CounterTop
+  - Granite
+  - Wood
+  - Metal
   layers:
   - Default
   - TransparentFX
