@@ -97,7 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 62f7bd95f456de643995e9f622646ace,
+    type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 986165f346053d84cb3878d98d2485fd,
     type: 2}
 --- !u!196 &4
@@ -1210,7 +1211,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 9.1835e-41, y: 2.0387482e-38, z: 7.6590804e-38, w: 3.67342e-40}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -1388,7 +1389,8 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 4.849669e-23, y: -3.6530867e-14, z: 7.605022e+11,
+    w: -2.8375028e-11}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -1824,7 +1826,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 2.3510604e-38, y: 7.9639e-41, z: 8.5916e-41, w: 1.435e-42}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -1964,7 +1966,8 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0.000000010326505, y: 1.7077711e+19, z: 1.0645484e+24,
+    w: 1.8512098e+28}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -2186,7 +2189,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1074819788}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.30538255, y: 0.5801853, z: -1.6458724}
+  m_LocalPosition: {x: -0.30538255, y: 0.5801853, z: -1.338}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 546926760}
@@ -2249,7 +2252,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 9.1835e-41, y: 5.1134018e-37, z: 9.78048e-39, w: 7.80602e-40}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -2264,6 +2267,14 @@ PrefabInstance:
     - target: {fileID: 1399654734292322, guid: f6068ef726cd6bc4f8f049617e06d730, type: 3}
       propertyPath: m_Name
       value: Tall Cabinet (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239025485556232, guid: f6068ef726cd6bc4f8f049617e06d730, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.0671
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239025485556232, guid: f6068ef726cd6bc4f8f049617e06d730, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5315
       objectReference: {fileID: 0}
     - target: {fileID: 4586867805020778, guid: f6068ef726cd6bc4f8f049617e06d730, type: 3}
       propertyPath: m_RootOrder
@@ -3611,7 +3622,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 5.51013e-40, y: 9.1835e-41, z: 1.8e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -4579,7 +4590,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 5.24e-43, y: 5.11712e-39, z: 0, w: 2.3912716e-10}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -4661,7 +4672,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2110081721}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -4.1493826, y: 0.55918527, z: 2.0871277}
+  m_LocalPosition: {x: -3.798, y: 0.55918527, z: 2.0871277}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 546926760}
