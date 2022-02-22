@@ -50,3 +50,13 @@ The following packages were added:
   com.unity.timeline@1.4.8
   com.unity.ugui@1.0.0
   com.unity.xr.legacyinputhelpers@2.1.8
+
+=== Tue Feb 22 01:50:47 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.9.0 to 1.13.5
+  com.unity.ide.vscode from version 1.2.3 to 1.2.4
+  com.unity.purchasing from version 3.2.2 to 4.0.3
